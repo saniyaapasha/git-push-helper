@@ -22,3 +22,4 @@ answer = tk.Label(app, text="Result:")
 answer.pack()
 
 app.mainloop()
+print("saniya")
